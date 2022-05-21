@@ -28,6 +28,6 @@
 [submodule "webconsole"]
 	path = webconsole
 	url = https://github.com/free5gc/webconsole.git
-[submodule "NFs/upf"]
+[submodule "upf"]
 	path = NFs/upf
 	url = https://github.com/nctu-ucr/upf-new.git
